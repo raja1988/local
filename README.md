@@ -1,2 +1,3 @@
 # local
 mylocal
+mylocal mylife
